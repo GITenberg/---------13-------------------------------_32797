@@ -1,0 +1,48 @@
+_repo: '---------13-------------------------------_32797'
+_version: 0.1.0
+alternative_title: Othello. Greek
+contributor:
+  translator:
+    agent_name: Vikelas, Demetrios
+    aliases:
+    - Bikelas, Demetrius
+    - Bikelas, Demetrios
+    - Βικέλας, Δημήτριος
+    birthdate: 1835
+    deathdate: 1908
+    gutenberg_agent_id: '6012'
+    url: http://www.gutenberg.org/2009/agents/6012
+    wikipedia: http://en.wikipedia.org/wiki/Demetrius_Vikelas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: 'Translation of: Othello'
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32797'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Muslims -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Othello (Fictitious character) -- Drama'
+- !lcsh 'Jealousy -- Drama'
+- !lcc 'PR'
+- !lcsh 'Venice (Italy) -- Drama'
+- !lcsh 'Interracial marriage -- Drama'
+title: "Οθέλλος\r\nΣαικσπείρου Τραγωδίαι Μέρος Β'"
+url: http://www.gutenberg.org/ebooks/32797
